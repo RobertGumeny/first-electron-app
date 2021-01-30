@@ -1,0 +1,16 @@
+{
+  "name": "first-electron-app",
+  "version": "1.0.0",
+  "description": "First app built using Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/RobertGumeny/first-electron-app.git",
+  "keywords": [],
+  "author": "Robert Gumeny",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.2.1"
+  }
+}
